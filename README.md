@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://FOYDALANUVCHI.github.io/uzum-market/"><img src="https://img.shields.io/badge/Live%20Demo-ko'rish-7000ff?style=for-the-badge" alt="Live demo"></a>
+  <a href="https://imsversace-a11y.github.io/uzum-figma/"><img src="https://img.shields.io/badge/Live%20Demo-ko'rish-7000ff?style=for-the-badge" alt="Live demo"></a>
 </p>
 
 <p align="center">
@@ -115,7 +115,7 @@ Reklama bannerlari:
 ## Papkalar tuzilishi
 
 ```
-uzum-market/
+uzum-figma/
 ├── index.html          sahifa tuzilishi
 ├── index.css           ko'rinish
 ├── app.js              asosiy JavaScript kodi
@@ -133,7 +133,7 @@ Mahsulotlar `fetch` bilan o'qiladi, shuning uchun `index.html` ni ikki marta bos
 1. Loyihani yuklab oling:
 
 ```powershell
-git clone https://github.com/FOYDALANUVCHI/uzum-market.git
+git clone https://github.com/imsversace-a11y/uzum-figma.git
 ```
 
 2. Papkani VS Code'da oching.
@@ -145,7 +145,7 @@ git clone https://github.com/FOYDALANUVCHI/uzum-market.git
 1. Repo sahifasida **Settings** ga kiring.
 2. Chap tomondan **Pages** ni tanlang.
 3. **Branch** qismida `main` va `/ (root)` ni tanlab, **Save** ni bosing.
-4. 1-2 daqiqadan keyin sayt `https://FOYDALANUVCHI.github.io/uzum-market/` manzilida ochiladi.
+4. 1-2 daqiqadan keyin sayt `https://imsversace-a11y.github.io/uzum-figma/` manzilida ochiladi.
 
 ## Kelajakda qo'shmoqchi bo'lganlarim
 
